@@ -5,8 +5,8 @@ I'm working with IT since 2011, from Trainee Support to IT Service Management. I
 ## &nbsp;Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=vieira-a&show_icons=true&theme=vision-friendly-dark" alt="vieira-a's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieira-a&layout=compact&theme=vision-friendly-dark" alt="vieira-a's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=vieira-a&show_icons=true&theme=vision-friendly-light" alt="vieira-a's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieira-a&layout=compact&theme=vision-friendly-light" alt="vieira-a's most languages"/>
 </p>
 
 ## &nbsp;My Stacks
