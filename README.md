@@ -1,15 +1,15 @@
-<h1 align="left">Hi there! My name is Anderson. I'm web developer.</h1>
+<h1 align="left">Olá! Meu nome é Anderson. Sou Desenvolvedor Front-end.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vieira-a&style=flat-square" alt="Profile views" /> </p>
-I'm working with IT since 2011, from Trainee Support to IT Service Management. I like to help people through technology and programming, so fell free to contact me!
+Trabalho com Tecnologia da Informação desde 2011, de Estagiário de Suporte a Gerenciamento de Serviços de TI. Gosto muito de ajudar pessoas através da tecnologia e programação, então fique a vontade para me contactar.
 
-## &nbsp;Analytics
+## &nbsp;Meu painel de atividades
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=vieira-a&show_icons=true&theme=vision-friendly-light" alt="vieira-a's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieira-a&layout=compact&theme=vision-friendly-light" alt="vieira-a's most languages"/>
 </p>
 
-## &nbsp;My Stacks
+## &nbsp;Minhas habilidades
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)&nbsp;
@@ -21,7 +21,7 @@ I'm working with IT since 2011, from Trainee Support to IT Service Management. I
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
-## &nbsp;Social Links
+## &nbsp;Redes sociais
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/vieira-a" target="_blank">
