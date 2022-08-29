@@ -2,13 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vieira-a&style=flat-square" alt="Profile views" /> </p>
 Trabalho com Tecnologia da Informação desde 2011. Iniciei como Estagiário de Suporte e me tornei Analista de Sistemas e Gestor de TI. Gosto muito de ajudar pessoas através da tecnologia e programação, então fique a vontade para me contactar.
 
-## &nbsp;Meu painel de atividades
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=vieira-a&show_icons=true&theme=vision-friendly-light" alt="vieira-a's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieira-a&layout=compact&theme=vision-friendly-light" alt="vieira-a's most languages"/>
-</p>
-
 ## &nbsp;Minhas habilidades
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
