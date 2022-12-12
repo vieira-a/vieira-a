@@ -1,4 +1,5 @@
-<h1 align="left">Olá! Meu nome é Anderson. Sou Desenvolvedor Front-end.</h1>
+<h1 align="left">Anderson Vieira</h1>
+<p>Desenvolvedor Front-end</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vieira-a&style=flat-square" alt="Profile views" /> </p>
 Trabalho com Tecnologia da Informação desde 2011. Iniciei como Estagiário de Suporte e me tornei Analista de Sistemas e Gestor de TI. Atualmente estou em transição de carreira para Desenvolvimento.
 Gosto muito de ajudar pessoas através da tecnologia e programação, então fique a vontade para me contactar.
