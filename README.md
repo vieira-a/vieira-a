@@ -3,44 +3,68 @@
 I'm a self-taught Front-end developer.
 
 ## My skills 
----
 
 ### My level with stacks that I work daily
 
-> **HTML5** | <progress max="100" value="100">100%</progress> 95%
+> **HTML5** 
 
-> **CSS3** | <progress max="100" value="85">85%</progress> 90%
+<progress max="100" value="100">100%</progress> 95%
 
-> **JavaScript** | <progress max="100" value="80">80%</progress> 80%
+> **CSS3** 
 
-> **React JS** | <progress max="100" value="80">80%</progress> 80%
+<progress max="100" value="85">85%</progress> 90%
 
-> **Tailwind CSS** | <progress max="100" value="80">80%</progress> 80%
+> **JavaScript** 
+
+<progress max="100" value="80">80%</progress> 80%
+
+> **React JS** 
+
+<progress max="100" value="80">80%</progress> 80%
+
+> **Tailwind CSS** 
+
+<progress max="100" value="80">80%</progress> 80%
 
 ### My toolkit
 
-> **Git** | <progress max="100" value="90">90%</progress> 90%
+> **Git** 
 
-> **VSCode** | <progress max="100" value="90">90%</progress> 90%
+<progress max="100" value="90">90%</progress> 90%
 
-> **Linux** | <progress max="100" value="95">100%</progress> 100%
+> **VSCode** 
+
+<progress max="100" value="90">90%</progress> 90%
+
+> **Linux** 
+
+<progress max="100" value="95">100%</progress> 100%
 
 ### My progress with stacks that I'm studying
 
-> **Node JS** | <progress max="100" value="30">30%</progress> 30%
+> **Node JS** 
 
-> **Python** | <progress max="100" value="60">60%</progress> 60%
+<progress max="100" value="30">30%</progress> 30%
 
-> **Django** | <progress max="100" value="50">60%</progress> 50%
+> **Python** 
+
+<progress max="100" value="60">60%</progress> 60%
+
+> **Django** 
+
+<progress max="100" value="50">60%</progress> 50%
 
 ### My progress with soft skills in development
 
-> **English** | <progress max="100" value="30">30%</progress> 30%
+> **English** 
 
-> **Scrum** | <progress max="100" value="70">70%</progress> 70%
+<progress max="100" value="30">30%</progress> 30%
+
+> **Scrum** 
+
+<progress max="100" value="70">70%</progress> 70%
 
 ## Get it touch
----
 
 | **E-mail** | **LinkedIn** |
 |--------| -------- |
