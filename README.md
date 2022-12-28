@@ -42,4 +42,4 @@ I'm a self-taught Front-end developer.
 
 | **E-mail** | **LinkedIn** |
 |--------| -------- |
-| [asvieira.dev@gmail.com](mailto:asvieira.dev@gmail.com) | [https://www.linkedin.com/in/vieira-a](https://www.linkedin.com/in/)vieira-a |
+| [asvieira.dev@gmail.com](mailto:asvieira.dev@gmail.com) | [https://www.linkedin.com/in/vieira-a](https://www.linkedin.com/in/vieira-a) |
