@@ -8,61 +8,61 @@ I'm a self-taught Front-end developer.
 
 > **HTML5** 
 
-<progress max="100" value="100">100%</progress> 95%
+<p><progress max="100" value="100">100%</progress> 95%</p>
 
 > **CSS3** 
 
-<progress max="100" value="85">85%</progress> 90%
+<p><progress max="100" value="85">85%</progress> 90%</p>
 
 > **JavaScript** 
 
-<progress max="100" value="80">80%</progress> 80%
+<p><progress max="100" value="80">80%</progress> 80%</p>
 
 > **React JS** 
 
-<progress max="100" value="80">80%</progress> 80%
+<p><progress max="100" value="80">80%</progress> 80%</p>
 
 > **Tailwind CSS** 
 
-<progress max="100" value="80">80%</progress> 80%
+<p><progress max="100" value="80">80%</progress> 80%</p>
 
 ### My toolkit
 
 > **Git** 
 
-<progress max="100" value="90">90%</progress> 90%
+<p><progress max="100" value="90">90%</progress> 90%</p>
 
 > **VSCode** 
 
-<progress max="100" value="90">90%</progress> 90%
+<p><progress max="100" value="90">90%</progress> 90%</p>
 
 > **Linux** 
 
-<progress max="100" value="95">100%</progress> 100%
+<p><progress max="100" value="95">100%</progress> 10</p>0%
 
 ### My progress with stacks that I'm studying
 
 > **Node JS** 
 
-<progress max="100" value="30">30%</progress> 30%
+<p><progress max="100" value="30">30%</progress> 30%</p>
 
 > **Python** 
 
-<progress max="100" value="60">60%</progress> 60%
+<p><progress max="100" value="60">60%</progress> 60%</p>
 
 > **Django** 
 
-<progress max="100" value="50">60%</progress> 50%
+<p><progress max="100" value="50">60%</progress> 50%</p>
 
 ### My progress with soft skills in development
 
 > **English** 
 
-<progress max="100" value="30">30%</progress> 30%
+<p><progress max="100" value="30">30%</progress> 30%</p>
 
 > **Scrum** 
 
-<progress max="100" value="70">70%</progress> 70%
+<p><progress max="100" value="70">70%</progress> 70%</p>
 
 ## Get it touch
 
