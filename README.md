@@ -19,7 +19,7 @@
 
 > **Git** | **VSCode** | **Linux** 
 
-## Get it touch
+## Get in touch
 
 | **E-mail** | **LinkedIn** |
 |--------| -------- |
