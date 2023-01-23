@@ -23,7 +23,7 @@
 
 "Daily code until the end of the world."
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vieira-a&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vieira-a)](https://git.io/streak-stats)
 
 ## Get in touch
 
