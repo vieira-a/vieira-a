@@ -9,7 +9,7 @@
 
 ### Stacks that I'm studying
 
-> **Node JS** | **Python** | **Django** 
+> **Node JS** | **Next JS** | **Typescript**
 
 ### Soft skills in development
 
