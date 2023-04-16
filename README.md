@@ -5,7 +5,7 @@
 
 ### Stacks that I work daily
 
-> **HTML5** | **CSS3** | **JavaScript** | **React JS** | **Tailwind CSS** | **Figma**   
+> **HTML5** | **CSS3** | **JavaScript** | **React JS** | **Tailwind CSS** | **Figma** | **Agile**  
 
 ### Stacks that I'm studying
 
