@@ -16,7 +16,7 @@ I'm a backend-focused software developer with a strong interest in building reli
 
 ## 🧭 Featured project
 
-📘 **[my-backend-guidelines](https://github.com/vieira-a/my-backend-guidelines)**  
+📘 **[Backend Guidelines](https://github.com/vieira-a/backend-guidelines)**  
 A personal, practical guide with the engineering patterns and decisions I apply in real-world backend projects.  
 Covers API design, error handling, authentication, integration with third-party services, and more.
 
