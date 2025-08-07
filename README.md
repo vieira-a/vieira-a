@@ -20,6 +20,9 @@ I'm a backend-focused software developer with a strong interest in building reli
 A personal, practical guide with the engineering patterns and decisions I apply in real-world backend projects.  
 Covers API design, error handling, authentication, integration with third-party services, and more.
 
+📘 **[Printly](https://github.com/vieira-a/Printly.Backend)**  
+A print management software with automatic counter via snpm and management reports
+
 ---
 
 ## 🛠️ Tech Stack
